@@ -17456,5 +17456,12 @@
     "author": "banisterious",
     "description": "Provides advanced word counting features for selected text across all view modes. Goes beyond basic word counting with customizable path exclusion, and more.",
     "repo": "banisterious/obsidian-custom-selected-word-count"
+  },
+{
+    "id": "vault-image-description",
+    "name": "Vault Image Description",
+    "author": "PtiCalin",
+    "description": "Generates descriptions for images using Ollama and shows results in a side panel.",
+    "repo": "PtiCalin/vault_image-description"
   }
 ]
